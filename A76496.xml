@@ -1,0 +1,368 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bevvare of false prophets or, a true relation of the examination, and confesion, of Roalond Bateman, of St. Mary's at Newington in Southwark, who was apprehended and now lies in prison for saying if a peace were not between this and Whitsonday he would pluck some of the Lord in Parliament, out by the eares and stab'd them, also that he said he is the son of God, and if they put him to death he should and would rise againe the third day, and that for a certaine he hath fasted from the 13 of May, till the 7 of Iune, and so continues to Newprison at Clarkenwell.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76496</idno>
+            <idno type="STC">Wing B2189</idno>
+            <idno type="STC">Thomason E50_29</idno>
+            <idno type="STC">ESTC R3528</idno>
+            <idno type="EEBO-CITATION">99872408</idno>
+            <idno type="PROQUEST">99872408</idno>
+            <idno type="VID">155166</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155166)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E50[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bevvare of false prophets or, a true relation of the examination, and confesion, of Roalond Bateman, of St. Mary's at Newington in Southwark, who was apprehended and now lies in prison for saying if a peace were not between this and Whitsonday he would pluck some of the Lord in Parliament, out by the eares and stab'd them, also that he said he is the son of God, and if they put him to death he should and would rise againe the third day, and that for a certaine he hath fasted from the 13 of May, till the 7 of Iune, and so continues to Newprison at Clarkenwell.</title>
+                  <author>Taylor, John, 1580-1653, attributed name.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Hammond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Taylor in the Wrenn catalogue, where it is dated 1638.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 12th 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bateman, Roalond, b. 1601.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155166:1" rendition="simple:additions"/>
+            <p>BEVVARE OF FALSE PROPHETS <hi>OR,</hi> A true Relation of the examination, and confeſion, of <hi>Roalond Bateman,</hi> of St. <hi>Mary's</hi> at <hi>Newington</hi> in <hi>Southwark,</hi> who was apprehended and now lie in priſon for ſaying if a Peace were not between this and Whitſonday he would pluck ſome of the Lord in Parliament, out by the eares and ſtab'd them, alſo that he ſaid he is the Son of God, and if they put him to death he ſhould and would riſe <hi>againe the third day, and that for a certaine he hath faſted from the</hi> 13 <hi>of May, till the</hi> 7 <hi>of Iune, and ſo continues in New priſon at Clarkenwell.</hi>
+            </p>
+            <q>
+               <l>If to beleeve your faith be weake,</l>
+               <l>Come ſe the man and heare him ſpeake.</l>
+            </q>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>June 12<hi rend="sup">th</hi> 1644</add> 
+               <hi>LONDON,</hi> Printed by John Hammond.</p>
+         </div>
+      </front>
+      <body>
+         <div type="biography">
+            <pb facs="tcp:155166:2"/>
+            <pb facs="tcp:155166:2"/>
+            <head>THE Diſcription of the MAN, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HIS <hi>Roalond Bateman</hi> was borne at <hi>Pearet</hi> neare <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oceſter,</hi> in the County <hi>Northam<g ref="char:EOLhyphen"/>pton, Anno. Dom.</hi> 1601. by profeſion a<g ref="char:EOLhyphen"/>day Labourer; having (at this preſent) a Wife and a Child in the Pari<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h of Saint <hi>Maryes Newington</hi> in <hi>Southwarke,</hi> his Complection rudy, Beard red, his ſtatude indiffrent betweene ſhort and tall, his Apparill (at this preſent,) ſhewing him to be a man of no exraordinary quality; his behaviour is ex<g ref="char:EOLhyphen"/>treame rude, Silv eſtrick and barborus Steeld, as it weare, with a ſtupid impudency (and ſelf conſeit,) as appeares plainly to all that diſcorces with him for it is cleere (to the induſtrious hearer) that if he can reade (at all,) it is but evry little yet two men of great Literatu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and Quality both of the <hi>Clergy</hi> and the <hi>Latine,</hi> (that ex<g ref="char:EOLhyphen"/>amine him about his Blaſphemyus opinions,) he will faſtudiouſly, with unparaled Petulency ſay, that it is loſt Labour for him to tell them of the Scripture, for none but himſelfe in the World knowes the ſence and meaning of it but the relation of this belongs to the next divinition (concerning his oppinions) to which I will briefly haſting concluding this, firſt (according to my promiſe) with the cauſe of his commitment to priſon which is onorable to ſpeak, for he ſayes (with great a ſeverity a beholding) that he would kill good LORD I beceech thee protect them ftom danger.</p>
+            <p>Some certaine Lords of the PARLIAMENT, when he came into Priſon (which was on Monday <hi>May</hi> the 13. he ſeemed to be drunke, (by all there preſent,) and theref<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re to prevent, miſ<g ref="char:EOLhyphen"/>demeanors, he was ſet (with both his feete) in the ſtocks, thinking that by that puninſhment he would returne to his witts retract
+<pb facs="tcp:155166:3"/> his wicked words (though) the hopfull expection of Clemency and pardon, but he on the next day, (and even ſence) in ſtead of ſorrow for his words did (and ſtill doth) audatiouſly and obtinat<g ref="char:EOLhyphen"/>ly defended his damnable intention, perſevering ſtill in ſpeaking deteſtable and vilinous ſpeeches, not fit by any Chriſtian to be rel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ted no more of this but (to proceed in his diſcription,) it is to hu<g ref="char:EOLhyphen"/>mon reaſon a moſt miraclous and all together impoſſible things that a man ſhould as he hath (by moſt certaine Teſtimon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and if neede requier dopoſicions) of ſeven or eight men who are (and have beene) not onely daily nightly, and hourly, but alſo moneth<g ref="char:EOLunhyphen"/>ly, with him. He hath lived from the 13 of <hi>May</hi> afforeſaid to this preſent <hi>Iune.</hi> 7. (the date of this preſent wrighting) and GOD knowes how long he may live ſo (for he ſaith he doth not without the eateing of any manner of food, and yet is at this inſtant every way it luſty ſtrong &amp; chearefull as before ſaying he fe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t no hunger) as he did the ſame or (rather the next) day after he came into the Priſon, thus much concerning the firſt d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vinition of the Man.</p>
+            <p>Second divinition his Blaſphemyus opinions which are ſo many and ſeverall, (he quotidialy or raither almoſt howery add<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng and changing that to ſet downe all exactly were to make a Divrnall of one and twenty dayes Phantaſies, therefore to ſhew ſome thing of a ſtory ſcarce poſſible to be puntually <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elared. I will courſly epitonure what I can remember, and moſt in the houſe will juſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e for me of his ſtolid impudince and moſt abomin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e blaſphemyus opinions ſuch as I have at ſundry times anciqurarily colected from his examination be-fore perſons of good Le<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rning &amp; Q<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y,</p>
+            <p n="1">1 Imprimiis in one examination (<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to ſtill) which was that he ſaid he is <hi>Abell</hi> the rightonal and the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was ſlaine from the begin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of the World, and ſhall he ſlaine againe (for he ſayes that he knoweth he ſhall be hanged very ſhortly) and then there ſhalbe peace in <hi>England</hi> (if he ſpeake true I would he were hanged quickly as a good Woman anſwered him) but he ſaies that on the third day, he ſhall riſe againe and walke about at Liberty never to dye againe a Gent<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>-man a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ked him how he knew that was of his opinion; he anſwered? none in the world but himſelfe and King <hi>Charles</hi> who are both ſpiret onely this difference that (ſaith he) I am as was <hi>Abraham,</hi> and the Kin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Charles</hi> is my ſonne <hi>Iſack</hi> he was further asked another time, how long he did thinke he ſhould continue this faſt, he anſwered? fourty dayes and fourty nights, and
+<pb facs="tcp:155166:3"/> it may be more, but at the end of his faſting he ſhould be hanged (as afore ſaid) trancelated and then there would be peace in the Land, another demanded of him whence he drew his opinions, (out of the Scripture quoth he?) what part (ſaid the oponent) in the twenty firſt Chapter of the Booke of <hi>Geniſes</hi> quoth he? and from thence he wen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on with a d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bolicall naration of <hi>Iohn</hi> the <hi>Baptiſt</hi> and of Chriſt which (oh horable blaſphemius) he ſaid is not come in ſubſtance but is ſhadow of all which unchriſtian a ſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s being re<g ref="char:EOLhyphen"/>quired par<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation he told the Gentleman that if he ſhould ſhow him Scripture for <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, they cold not underſtand it nor any man but himſelfe who alone had the Holy Ghoſt with him, one thinge, let me not om<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tt to tell you (whilſt it is in my memory and which I will l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd you my <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udgmen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s hearaf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er in the due Place,) when p<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me to ſee (and heare) him, he will preſently before hee ſpe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kes any thing (as they would have him) have recorſe to the Words of his o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Partion Judas what will you give me, for he is not aſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>med moſt inſelent<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y being related in the conf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dence of <hi>vox populy</hi> to ſay I<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y any thing for nothing pay and Ile ſay<g ref="char:punc">▪</g> (O w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe Prophet or raither Prophet gatherer but I muſt judge of him hearafter; it were both tedious and impoſſible to tell you all be to! to ſo ma y ſeverall ſorts of People that hourly flocke unto him, for as I ſaid before, he doth ſo change and ſo adde (from his firſt pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncipales that he hath almoſt a new ſaying for every new C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo abom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nable<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y impudent he is growne,) in his ſtu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y that whatſoever he ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith you muſt not co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>troduct, if you do he being unable to de<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd his Argument retreates to his com<g ref="char:EOLhyphen"/>mon poſture you cannot underſtand mee if I ſhould tell you, and thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that you ſhall get out of him; (whatſoever is obiected a<g ref="char:EOLhyphen"/>gainſt him,) Counſell h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> (as many good people have done,) to ſerve God and leave this life, and ſhew for pardon upon rec<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntation of his errors, then you do (as it were) uſe oyle to quench fire for he ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ornes your advice and ſayes, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>u are no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> capable of that which he meanes and knowes <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he beſt learned men in the Land no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> expected he is ſo foole h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dy confident in theſe deirſion that he ſeemes to defi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e nothing ſoner then hanging the ſooner the better ſay I quoth a Woman to him, if then we might have Peace now I remember this was mentioned before, but it is no greate matte<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for he talkes of it ſo oft that he ſeemes at have more minde to it then heaven bleſſ him from beter fortunes, on Sat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>day laſt in the afternone ſome
+<pb facs="tcp:155166:4"/> of his fellow priſoners in the hearing were talking with him about this Arguments, <hi>viz.</hi>
+            </p>
+            <p>That about nine yeares hence he ſaid all men and women muſt firſt faſt as he do<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h now and after that they ſhall die and ſcone after r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe againe and live ſome an hundred and twenty yeares without eating of and ſuſtiance and that ſome others ſhould neve<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> die but <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive everlaſtingly on the earth as he ſhall three dayes After he is hanged then it was demanded of him what he thouh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of of the general judgement day he anſwered? it would come in the in<g ref="char:EOLhyphen"/>trum of thoſe nine years for do you not ſe quoth he that it is com<g ref="char:EOLhyphen"/>ming neere to this preſent, when the Father fights againſt the Son and Son againſt the Father, &amp;c. thus perſumeth this ignorant fellow to talke of theſe miſteries which the eternall wiſdome of the father (as he was man) nor the Angels in Heaven neither can not could ſet downe the time when I thinke it is high time to leave him and his blaſphemyus follyes to the mercy any judgmen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of GOD and our ſuperiowes and accord<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng to my promiſe and capaſity I will ſpend my iudgment upon him in the enſuing third and laſt divition and make and end of the ſtory.</p>
+            <p>The third upon him &amp;c. with this in brief aluding to what you have heard of his ſayings &amp; doings, that he is an abſolute impoſture and as far to be credited as a true prophet or ſervant of COD, as were immediate foure Fathers <hi>Hacket, Atherington</hi> and <hi>Copinger Buell,</hi> with his Brother <hi>Farnum</hi> who were both Weavers, about ſome five or ſix yeares ſence be that in not with me is againſt me ſaith Chriſt but this man is not perfectly with Chriſt but rather a fore ru<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er of Antichriſt who ſhall deny Chriſt to be come in the fleſh and he ſaid as I told you before that Chriſt is not come in ſub<g ref="char:EOLhyphen"/>ſtance but in ſhadow therefore he can neither be true prophet not true Chriſtian moreover by the fru t you may judge the tree, and the Man by his words and workes he is eaſly deſerned to be a falſe Prophet, if he will be cal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed a Prophet being by nature extreame proude and averiſſious as well appeares by the promiſe and concer<g ref="char:EOLhyphen"/>ning <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt of womem which was a point which I forget to tell you before he ſaith that no woman that commits adultery commits ſin againſt GOD out an offence againſt man and divers erelidgious and unchriſtian words he utters to his audi nce: that I will not maru<g ref="char:EOLhyphen"/>lat pure paper with all by which it is evedent that he is not a man
+<pb facs="tcp:155166:4"/> inſpired with the Holy Ghoſt, as he moſt aregantly ſaith, but raither a Monſter poſſeſt with an uncleane lying ſpiret, for briefly to avoid all further contruercies in this point, we are promiſed ar the end of the World, no true prophet for we ought to cheare and ſtick cloſe to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Doctrine of faith already received, but on the contrary wee <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re warned to beware of falſe Prophets, therefore if any man or An<g ref="char:EOLhyphen"/>gel from Heaven (and the Divill can by Gods permition trance<g ref="char:EOLhyphen"/>forme himſelfe into an Angel of light, ſhould teach us any other Doctrine then what we have been taught from the b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gining of our faith let him be an Athemy, therefore this permitious impoſture holding and devolging ſuch opinions afore mention<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d qiute repug<g ref="char:EOLhyphen"/>nant to Chriſt and his true Goſpel judge not Chriſtan Reader amiſſe of me if I judge and condemne him and all ſuch brave like humores for pſudo<g ref="char:punc">▪</g> prophets who forſaking the true Spiret which from the begining hath been the Inſtructer of the true Church to teach and to leade her unto all truth by Gods highly provocted judgment are g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven over unto a Reprobate ſence, to believe all manner of Lies, Dreames, Deluſions and Fantaſies, which the Divell that arch Lier ſhall direct unto them. now concerning his maruiloſe ſubſtaining ftom foode without impayring ſtrength changing of eyes or coun<g ref="char:EOLhyphen"/>tinance, and not as yet feeling hunger as he ſaith. I confeſſe it is be<g ref="char:EOLhyphen"/>yond my Capaſety, or the moſt learned Philoſepher or Phiſition in the Kingdome, to render and naturall <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſon of it. But a French Gentleman ſaid that in his Country he hath known the like and he ſaid it is a particuler humor in a man whi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h in our languiſh we call <hi>P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nderiaco</hi> which is a ſelf-conceite, ſome upon one humor ſome upon another, ſome obſtaning from foode ſome from ſleepe, a third from coming not neare the fire in the coldeſt weather, all this to wine admitation and poppuler wonder, the enemy of mankinde, lending them force to doe it, as he is ſaid to be God Ape, ſo his deſiple in ſuch things will ſeeme to immitate the deareſt and neareſt Servants of God ſee the ſouth ſayes of Egypt counterfeted the ſup<g ref="char:EOLhyphen"/>ernaturall marcies of <hi>Moſes,</hi> ſo long as Divine power would ſuffer it. So <hi>Simon Magous</hi> contended with <hi>Simon Peeter</hi> till his charme with his ncke were broken. ſo this <hi>Theaſonic<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll imposture</hi> makes no queſtion but as the holy Prophet <hi>Elias</hi> our bleſſed Saviour faſted forty dayes and forty nights he would preſume by his wick<g ref="char:EOLhyphen"/>ed Spiters aſſiſtance to doe the like unleſſe the Hangman which the ſeemes ſo earneſtly to wiſh for to breake his neck in the intrume
+<pb facs="tcp:155166:5"/> 
+               <hi>this gentle Chriſtian Reader I have according to promiſe ſent thee from this houſe of care a ſhort and brevi are epitamy of a Subiect re<g ref="char:EOLhyphen"/>quiring a longer exponſion but now I thinke on a little of a bad matter is enough if not to much I confeſſe the multitude of people coming howerly to him was the ſp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re of <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> much leaſure to be imployed in this taskê raile.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <head>A Poſtſcript of ſome things more then was promiſed.</head>
+            <l>IT is to you fond People whome I wright,</l>
+            <l>Whoſe iching eares, and hungery appetite,</l>
+            <l>After n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w fangles, new opinions and;</l>
+            <l>The new (inuented) Sests (bane of the Land:</l>
+            <l>Who come to ſee, heare, and aplade this knave;</l>
+            <l>Whoſe faſting feaſts your fancyes, as I have;</l>
+            <l>(With wonder) heares cheifely the famale Sects.</l>
+            <l>And many ſimple men to theſe Annex,</l>
+            <l>Vnto his ſelfe conceits ſuch Prophets that hee;</l>
+            <l>(For Mony) ſeemes what they would have him he,</l>
+            <l>They'le ſwallow downe his blaſphemyus deſcorces</l>
+            <l>And hier him with exſpence of their one purſes:</l>
+            <l>And what an age is this which we now live in,</l>
+            <l>Are we true chiiſtians, raither Iewes or Heathen,</l>
+            <l>When <hi>Chriſt</hi> his Word, and Doctrine is deparaved</l>
+            <l>Shall we hope by <hi>Chriſt</hi> ere to be ſaved;</l>
+            <l>Countinance ſuch a man, nay pay him fort,</l>
+            <l>As though his blaſphemy to us were ſport,</l>
+            <l>All thoſe which nothing give <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elle ſurce and baine,</l>
+            <l>Iudge Reader is this not a Holy man,</l>
+         </div>
+         <trailer>FINIS,</trailer>
+      </body>
+   </text>
+</TEI>
